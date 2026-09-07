@@ -1,4 +1,4 @@
-- I daily use SQL,PYTHON,SPARK,PYSPARK,DATABRICKS,AWS,POWER BI 
+- I daily use EXCEL, SQL,PYTHON,SPARK,PYSPARK,DATABRICKS,AWS,POWER BI 
 -  I’m currently working on projects
 -  I’m looking for help with Ai
 -  Ask me about Data Engineer
